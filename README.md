@@ -1,2 +1,2 @@
 # MediumClone
-Medium Clone with Bootstrap
+Medium 2022 clone with Bootstrap
