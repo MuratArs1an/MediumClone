@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto Serif', serif;
+}
+
+.bg-yellow{
+    background-color:#FFC017;
+}
+
+.border-bt{
+    border-bottom:1px solid #414141;
+
+}
+
+.sticky{
+    position: sticky;
+    top: 0px;
+}
+.big-text{
+    font-size: 85px;
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+}
+
+.btn-first{
+    width: 213px;
+    font-size: 20px;
+    border-radius:99em;
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
+.get-start{
+    border-radius: 99em;
+}
+
+.border-top{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
